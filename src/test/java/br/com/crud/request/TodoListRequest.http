@@ -1,0 +1,32 @@
+GET http://localhost:8080/notes
+Content-Type: application/json
+
+
+###
+POST http://localhost:8080/notes
+Content-Type: application/json
+
+{
+  "title": "Estudar",
+  "description": "Estudar Java - POO "
+
+
+}
+
+###
+
+
+###
+PUT http://localhost:8080/notes/1
+Content-Type: application/json
+
+{
+  "title": "Estudar",
+  "description": "Estudar java - Classes Record - URGENTE",
+  "done": false
+
+}
+
+###
+DELETE  http://localhost:8080/notes/1
+Content-Type: application/json
