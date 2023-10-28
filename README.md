@@ -68,3 +68,6 @@ Create your first JPA entity
 Easily start your Reactive RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
+
+![image](https://github.com/beatrizgomess/notes_api/assets/78573126/b8b4522b-2036-4bcf-afbc-417a55acc7a1)
+
